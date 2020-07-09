@@ -1,0 +1,81 @@
+body {
+    margin: 0px;
+    margin-top: 120px;
+    background-image: url("/images/background/background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.encadre {
+    display: block;
+    text-align: center;
+    align-items: center;
+    background-color: rgba(0, 240, 150, 0.4);
+    border: 1px solid rgba(50, 50, 50, 0.6);
+    height: auto;
+    width: 70%;
+    margin-top: 90px;
+    margin-bottom: 20px;
+    padding: 20px;
+    padding-top: 0px;
+}
+
+.titre-encadre {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.8em;
+    color: white;
+}
+
+.sous-titre-encadre {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.4em;
+    color: whitesmoke;
+}
+
+.encadre p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    color: black;
+}
+
+.encadre ul,
+.encadre ol {
+    display: block;
+    left: 50%;
+    width: max-content;
+    max-width: 90%;
+    transform: translate(-50%, 0);
+    position: relative;
+    text-align: start;
+    font-family: Arial, Helvetica, sans-serif;
+    z-index: 0;
+}
+
+.image-encadre-moyenne {
+    display: block;
+    width: 50%;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.image-encadre-petite {
+    display: block;
+    width: 30%;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.legende-image {
+    display: inline-block;
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    max-width: 45%;
+}
