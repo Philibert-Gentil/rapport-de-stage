@@ -79,3 +79,20 @@ body {
     font-style: italic;
     max-width: 45%;
 }
+
+.def-titre-encadre {
+    display: inline-block;
+    width: 100%;
+    text-align: start;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    color: green;
+}
+
+.lien-lexique {
+    color: green;
+}
+
+.lien-lexique:visited {
+    color: black;
+}

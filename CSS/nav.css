@@ -17,8 +17,8 @@ nav {
     display: inline-block;
     height: 50px;
     width: 13%;
-    background-color: rgba(0, 46, 234, 0.5);
-    border: 1px solid rgba(50, 50, 50, 0.6);
+    background-color: rgba(0, 46, 234, 0.8);
+    border: 1px solid rgba(50, 50, 50, 0.9);
     margin-left: 0.5%;
     text-align: center;
     line-height: 250%;
@@ -30,6 +30,6 @@ nav {
 }
 
 .nav-li:hover {
-    background-color: rgba(255, 0, 0, 0.527);
+    background-color: rgba(200, 0, 0, 1);
     width: 16%;
 }

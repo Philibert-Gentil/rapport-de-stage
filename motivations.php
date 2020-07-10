@@ -40,7 +40,8 @@ include __DIR__ . "/include/nav.php";
 
         <h2 class="sous-titre-encadre">Ce qui m'as plû</h2>
         <p>
-            J'ai bien aimé programmer, surtout programmer le frontend.
+            J'ai bien aimé programmer, surtout programmer le frontend. J'ai aussi aimé me rendre utile, savoir que mon travail allait servir par la suite. J'ai créé un site de formulaire de satisfaction pour l'entreprise où j'ai fait mon stage. C'était difficile, mais amusant. 
+            L'entreprise, pour améliorer le bonheur des gens au travail, à installé un babyfoot. C'est vrai que ça gens avait rend de meilleure humeur de faire une partie. Cela accroit aussi la productité dans la majorité des cas.
         </p>
     </div>
 </body>
